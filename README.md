@@ -1,4 +1,5 @@
 # Turing_pattern_analysis
+
 ======================================================================================================================================================================================
 Context: Wertheim, Kenneth Yann (2017). Mathematical Modelling of Lymphangiogenesis. University of Southampton, Doctoral Thesis, 234pp.
 About: This repository contains the python programs used for Turing pattern analysis in chapter 6 of the above thesis, their outputs, as well as the plot data in chapter 6 and the COMSOL files used to generate them.
@@ -16,6 +17,7 @@ Nomenclature for the COMSOL implementations:
 -c2 is the concentration of VEGFC.
 -c3 is the concentration of collagen I.
 -c4 is the concentration of VEGFC-collagen I.
+
 ======================================================================================================================================================================================
 Python programs
 
@@ -36,6 +38,7 @@ Python programs
 5. BU5.Bifurcation_M2_b3.py generates figure 6.4.
 
 6. BU6.Bifurcation_VC_b4.py generates figure 6.5.
+
 ======================================================================================================================================================================================
 COMSOL files
 
