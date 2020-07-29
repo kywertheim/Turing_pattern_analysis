@@ -1,11 +1,16 @@
 # Turing_pattern_analysis
 Context: Wertheim, Kenneth Yann (2017). Mathematical Modelling of Lymphangiogenesis. University of Southampton, Doctoral Thesis, 234pp.
+
 About: This repository contains the python programs used for Turing pattern analysis in chapter 6 of the above thesis, their outputs, as well as the plot data in chapter 6 and the COMSOL files used to generate them.
 
 Python programs: They are all carefully documented.
+
 Plot data: The csv file names match their labels in the thesis.
+
 COMSOL version: All the COMSOL files were built in COMSOL Multiphysics version 5.2.
+
 Hardware: The simulations were run on a desktop computer with an Intel(R) Core(TM) i5-3570 CPU at 3.40 GHz and 16 GB of RAM.
+
 Units: All the simulation results are dimensionless.
 
 Nomenclature for the COMSOL implementations:
